@@ -2,7 +2,7 @@ input{
     padding: 1vh 1vh;
     margin: 5px  5px;
     border: none;
-    border-radius: 3px
+    border-radius: 3px;
 }
 .credentials button{
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
