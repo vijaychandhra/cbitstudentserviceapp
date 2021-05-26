@@ -63,9 +63,9 @@
     margin-bottom: 10px;
   }
   .post__body > img {
-    width: 100%;
+    width: 70%;
+    padding-left: 22vh;
     object-fit: contain;
-    background-color: rgb(238, 238, 238);
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
